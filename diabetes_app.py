@@ -48,7 +48,7 @@ def load_chart(data, kind):
 #st.set_page_config(layout="wide")
 st.title("Diabetes Predictor App")
 st.write("From the diabetes data, we built a machine learning model for diabetes predictions.")
-st.code("https://github.com/lowildlr10/diabetes-prediction-app.git")
+st.code("https://github.com/JuliusChristian/FinalExerciseDarius.git")
 st.markdown("""---""")
 
 
