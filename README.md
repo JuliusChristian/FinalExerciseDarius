@@ -1,2 +1,2 @@
-# FinalExerciseDarius
-Final Exercise for Darius
+# diabetes-prediction-app
+3-day DARIUS learning sessions
